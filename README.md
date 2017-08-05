@@ -1,2 +1,2 @@
 # sentiment-analysis-on-movie-reviews
-Sentiment analysis on rotten tomatoes movie reviews
+https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
